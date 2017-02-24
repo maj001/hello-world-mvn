@@ -3,6 +3,7 @@ package pg.mj.helloworld.mvn;
 public class Main {
 
 	public static void main(String[] args) {
+		// workspace1: line 1024
 		System.out.println("Hello World Maven!");
 	}
 
